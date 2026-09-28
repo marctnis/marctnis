@@ -10,17 +10,26 @@ I'm a student at CIn-UFPE majoring in Computer Science, with an interest in Arti
 * **Main Language:** Python 
 * **Data Science & ML:** Pandas, Scikit-learn, Matplotlib
 
+## Projects
+
+* [**Bank Marketing Campaign: Conversion Prediction & EDA**](https://github.com/marctnis/Projeto1ML) - An exploratory data analysis and data preparation project to predict term deposit subscriptions using the UCI Bank Marketing dataset.
+<!-- * [**Classificador com kNN**]() - Pipeline de Machine Learning utilizando técnicas de balanceamento como SMOTE.
+
 <!--## 📈 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marctnis&show_icons=true&theme=transparent&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marctnis&layout=compact&theme=transparent&hide_border=true)
 
+
+
 -->
 ## 📫 How to reach me
 <!-- - **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
 <!-- - **Kaggle:** [kaggle.com/your-profile](https://kaggle.com/your-profile) <!-- Optional, but great for ML portfolios -->
 - **Email:** mmarcos.aon@gmail.com
+
+  
 
 
 
