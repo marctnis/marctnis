@@ -8,7 +8,7 @@ I'm a student at CIn-UFPE majoring in Computer Science, with an interest in Arti
 
 ## Stack
 * **Main Language:** Python 
-* **Data Science & ML:** Pandas, Scikit-learn, Matplotlib
+* **Data Science & ML:** Pandas, Scikit-learn, Matplotlib, Numpy
 
 ## Projects
 
