@@ -2,8 +2,9 @@
 
 ## About me
 I'm a student at CIn-UFPE majoring in Computer Science, with an interest in Artificial Intelligence, Data Science, and Machine Learning.
-Based in Brazil
-Working on ML projects with Pandas and Numpy
+
+- Based in Brazil.
+- Currently working on ML projects with Pandas and NumPy.
 
 ## Stack
 * **Main Language:** Python 
