@@ -9,13 +9,13 @@ Working on ML projects with Pandas and Numpy
 * **Main Language:** Python 
 * **Data Science & ML:** Pandas, Scikit-learn, Matplotlib
 
-## 📈 GitHub Stats
+<!--## 📈 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marctnis&show_icons=true&theme=transparent&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marctnis&layout=compact&theme=transparent&hide_border=true)
 
-
+-->
 ## 📫 How to reach me
 <!-- - **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
 <!-- - **Kaggle:** [kaggle.com/your-profile](https://kaggle.com/your-profile) <!-- Optional, but great for ML portfolios -->
